@@ -11,17 +11,6 @@ Features:-
  🎨Responsive design - Works on all device sizes
  🌈 Visual feedback - Color-coded results and animations
  
- Screenshots:-
-
-  Questions Page
-   ![Questions](./questions.png)
-
-  Restart Option
-   ![Restart](./restart.png)
-
-   Result Page
-   ![Result](./result.png)
-
 
  How to run?
 
@@ -34,4 +23,10 @@ Features:-
     -React 18
     -Vite (for development)
     -CSS3 (no additional CSS frameworks)
+
+👩‍💻 Developed By
+  -Jyoti Fabiyani 
+ 📧[Email] 2022.jyoti.fabiyani@ves.ac.in
+ 🔗[LinkedIn] https://www.linkedin.com/in/jyoti-fabiyani-355b972b2/
+
    
